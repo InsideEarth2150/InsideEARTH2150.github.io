@@ -1,0 +1,2792 @@
+--2021-08-21 15:30:57--  http://www.earth2150.com/
+Resolving www.earth2150.com (www.earth2150.com)... 85.115.25.220
+Connecting to www.earth2150.com (www.earth2150.com)|85.115.25.220|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://www.earth2150.com/ [following]
+--2021-08-21 15:30:57--  https://www.earth2150.com/
+Connecting to www.earth2150.com (www.earth2150.com)|85.115.25.220|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5999 (5.9K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/index.html.tmp'
+
+     0K .....                                                 100% 36.2M=0s
+
+2021-08-21 15:30:57 (36.2 MB/s) - 'D:/Websites/www.earth2150.com/index.html.tmp' saved [5999/5999]
+
+Removing D:/Websites/www.earth2150.com/index.html.tmp since it should be rejected.
+
+--2021-08-21 15:30:57--  https://www.earth2150.com/loading.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5052 (4.9K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/loading.htm'
+
+     0K ....                                                  100% 21.9M=0s
+
+2021-08-21 15:30:57 (21.9 MB/s) - 'D:/Websites/www.earth2150.com/loading.htm' saved [5052/5052]
+
+--2021-08-21 15:30:57--  https://www.earth2150.com/gen_images/start1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10903 (11K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/gen_images/start1.jpg'
+
+     0K ..........                                            100% 12.6M=0.001s
+
+2021-08-21 15:30:57 (12.6 MB/s) - 'D:/Websites/www.earth2150.com/gen_images/start1.jpg' saved [10903/10903]
+
+--2021-08-21 15:30:57--  https://www.earth2150.com/3er/frameset_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 664 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/3er/frameset_1.htm'
+
+     0K                                                       100% 4.11M=0s
+
+2021-08-21 15:30:57 (4.11 MB/s) - 'D:/Websites/www.earth2150.com/3er/frameset_1.htm' saved [664/664]
+
+--2021-08-21 15:30:57--  https://www.earth2150.com/gen_images/clickhere_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1006 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/gen_images/clickhere_off.gif'
+
+     0K                                                       100% 7.80M=0s
+
+2021-08-21 15:30:57 (7.80 MB/s) - 'D:/Websites/www.earth2150.com/gen_images/clickhere_off.gif' saved [1006/1006]
+
+--2021-08-21 15:30:57--  https://www.earth2150.com/gen_images/topani.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 41900 (41K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/gen_images/topani.gif'
+
+     0K .......... .......... .......... ..........           100% 1.09M=0.04s
+
+2021-08-21 15:30:57 (1.09 MB/s) - 'D:/Websites/www.earth2150.com/gen_images/topani.gif' saved [41900/41900]
+
+--2021-08-21 15:30:57--  https://www.earth2150.com/gen_images/links.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 388 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/gen_images/links.gif'
+
+     0K                                                       100% 2.71M=0s
+
+2021-08-21 15:30:57 (2.71 MB/s) - 'D:/Websites/www.earth2150.com/gen_images/links.gif' saved [388/388]
+
+--2021-08-21 15:30:57--  https://www.earth2150.com/gen_images/press.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 413 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/gen_images/press.gif'
+
+     0K                                                       100% 2.82M=0s
+
+2021-08-21 15:30:57 (2.82 MB/s) - 'D:/Websites/www.earth2150.com/gen_images/press.gif' saved [413/413]
+
+--2021-08-21 15:30:57--  https://www.earth2150.com/gen_images/contact.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 501 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/gen_images/contact.gif'
+
+     0K                                                       100% 2.92M=0s
+
+2021-08-21 15:30:57 (2.92 MB/s) - 'D:/Websites/www.earth2150.com/gen_images/contact.gif' saved [501/501]
+
+--2021-08-21 15:30:57--  https://www.earth2150.com/gen_images/start2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12673 (12K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/gen_images/start2.jpg'
+
+     0K .......... ..                                         100% 8.33M=0.001s
+
+2021-08-21 15:30:57 (8.33 MB/s) - 'D:/Websites/www.earth2150.com/gen_images/start2.jpg' saved [12673/12673]
+
+--2021-08-21 15:30:57--  https://www.earth2150.com/gen_images/start3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11833 (12K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/gen_images/start3.jpg'
+
+     0K .......... .                                          100% 8.97M=0.001s
+
+2021-08-21 15:30:58 (8.97 MB/s) - 'D:/Websites/www.earth2150.com/gen_images/start3.jpg' saved [11833/11833]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/gen_images/loader_left.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 243 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/gen_images/loader_left.gif'
+
+     0K                                                       100% 1.55M=0s
+
+2021-08-21 15:30:58 (1.55 MB/s) - 'D:/Websites/www.earth2150.com/gen_images/loader_left.gif' saved [243/243]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/gen_images/loader_passiv.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 93 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/gen_images/loader_passiv.gif'
+
+     0K                                                       100%  607K=0s
+
+2021-08-21 15:30:58 (607 KB/s) - 'D:/Websites/www.earth2150.com/gen_images/loader_passiv.gif' saved [93/93]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/loader_passiv.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-08-21 15:30:58 ERROR 404: Not Found.
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/gen_images/images/loader_right.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-08-21 15:30:58 ERROR 404: Not Found.
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/menu/haupt_menu.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5933 (5.8K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/menu/haupt_menu.htm'
+
+     0K .....                                                 100% 33.0M=0s
+
+2021-08-21 15:30:58 (33.0 MB/s) - 'D:/Websites/www.earth2150.com/menu/haupt_menu.htm' saved [5933/5933]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/bkg.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 322 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/bkg.htm'
+
+     0K                                                       100% 2.64M=0s
+
+2021-08-21 15:30:58 (2.64 MB/s) - 'D:/Websites/www.earth2150.com/bkg.htm' saved [322/322]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/3er/frameset_2.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 852 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/3er/frameset_2.htm'
+
+     0K                                                       100% 6.06M=0s
+
+2021-08-21 15:30:58 (6.06 MB/s) - 'D:/Websites/www.earth2150.com/3er/frameset_2.htm' saved [852/852]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/menu/images/startmenu/logo100.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2124 (2.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/startmenu/logo100.jpg'
+
+     0K ..                                                    100% 12.3M=0s
+
+2021-08-21 15:30:58 (12.3 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/startmenu/logo100.jpg' saved [2124/2124]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/3er/frameset_ed.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 668 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/3er/frameset_ed.htm'
+
+     0K                                                       100% 4.54M=0s
+
+2021-08-21 15:30:58 (4.54 MB/s) - 'D:/Websites/www.earth2150.com/3er/frameset_ed.htm' saved [668/668]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/menu/images/startmenu/ed_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1045 (1.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/startmenu/ed_off.jpg'
+
+     0K .                                                     100% 8.15M=0s
+
+2021-08-21 15:30:58 (8.15 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/startmenu/ed_off.jpg' saved [1045/1045]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/3er/frameset_ucs.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 671 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/3er/frameset_ucs.htm'
+
+     0K                                                       100% 4.82M=0s
+
+2021-08-21 15:30:58 (4.82 MB/s) - 'D:/Websites/www.earth2150.com/3er/frameset_ucs.htm' saved [671/671]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/menu/images/startmenu/ucs_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1092 (1.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/startmenu/ucs_off.jpg'
+
+     0K .                                                     100% 9.49M=0s
+
+2021-08-21 15:30:58 (9.49 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/startmenu/ucs_off.jpg' saved [1092/1092]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/3er/frameset_lc.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 668 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/3er/frameset_lc.htm'
+
+     0K                                                       100% 4.85M=0s
+
+2021-08-21 15:30:58 (4.85 MB/s) - 'D:/Websites/www.earth2150.com/3er/frameset_lc.htm' saved [668/668]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/menu/images/startmenu/lc_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1061 (1.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/startmenu/lc_off.jpg'
+
+     0K .                                                     100% 8.66M=0s
+
+2021-08-21 15:30:58 (8.66 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/startmenu/lc_off.jpg' saved [1061/1061]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/seiten/story_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1938 (1.9K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/story_1.htm'
+
+     0K .                                                     100% 13.5M=0s
+
+2021-08-21 15:30:58 (13.5 MB/s) - 'D:/Websites/www.earth2150.com/seiten/story_1.htm' saved [1938/1938]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/menu/images/startmenu/buttons/story_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 505 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/startmenu/buttons/story_off.gif'
+
+     0K                                                       100% 3.09M=0s
+
+2021-08-21 15:30:58 (3.09 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/startmenu/buttons/story_off.gif' saved [505/505]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/seiten/features_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2177 (2.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/features_1.htm'
+
+     0K ..                                                    100% 9.74M=0s
+
+2021-08-21 15:30:58 (9.74 MB/s) - 'D:/Websites/www.earth2150.com/seiten/features_1.htm' saved [2177/2177]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/menu/images/startmenu/buttons/features_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 699 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/startmenu/buttons/features_off.gif'
+
+     0K                                                       100% 4.67M=0s
+
+2021-08-21 15:30:58 (4.67 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/startmenu/buttons/features_off.gif' saved [699/699]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/menu/images/startmenu/buttons/forum_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 562 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/startmenu/buttons/forum_off.gif'
+
+     0K                                                       100% 4.53M=0s
+
+2021-08-21 15:30:58 (4.53 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/startmenu/buttons/forum_off.gif' saved [562/562]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/downloads/download_frameset.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 624 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/downloads/download_frameset.htm'
+
+     0K                                                       100% 3.87M=0s
+
+2021-08-21 15:30:58 (3.87 MB/s) - 'D:/Websites/www.earth2150.com/downloads/download_frameset.htm' saved [624/624]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/menu/images/startmenu/buttons/downloads_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 690 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/startmenu/buttons/downloads_off.gif'
+
+     0K                                                       100% 5.39M=0s
+
+2021-08-21 15:30:58 (5.39 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/startmenu/buttons/downloads_off.gif' saved [690/690]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/menu/images/startmenu/buttons/support_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 648 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/startmenu/buttons/support_off.gif'
+
+     0K                                                       100% 5.42M=0s
+
+2021-08-21 15:30:58 (5.42 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/startmenu/buttons/support_off.gif' saved [648/648]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/menu/images/wire1.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4501 (4.4K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/wire1.gif'
+
+     0K ....                                                  100% 21.3M=0s
+
+2021-08-21 15:30:58 (21.3 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/wire1.gif' saved [4501/4501]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/start.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8773 (8.6K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/start.htm'
+
+     0K ........                                              100% 11.6M=0.001s
+
+2021-08-21 15:30:58 (11.6 MB/s) - 'D:/Websites/www.earth2150.com/start.htm' saved [8773/8773]
+
+--2021-08-21 15:30:58--  https://www.earth2150.com/menu/ed_menu.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4819 (4.7K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/menu/ed_menu.htm'
+
+     0K ....                                                  100% 19.4M=0s
+
+2021-08-21 15:30:59 (19.4 MB/s) - 'D:/Websites/www.earth2150.com/menu/ed_menu.htm' saved [4819/4819]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/ed/frameset_ed.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 858 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/frameset_ed.htm'
+
+     0K                                                       100% 4.87M=0s
+
+2021-08-21 15:30:59 (4.87 MB/s) - 'D:/Websites/www.earth2150.com/ed/frameset_ed.htm' saved [858/858]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/menu/ucs_menu.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4933 (4.8K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/menu/ucs_menu.htm'
+
+     0K ....                                                  100% 25.2M=0s
+
+2021-08-21 15:30:59 (25.2 MB/s) - 'D:/Websites/www.earth2150.com/menu/ucs_menu.htm' saved [4933/4933]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/ucs/frameset_ucs.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 860 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/frameset_ucs.htm'
+
+     0K                                                       100% 5.86M=0s
+
+2021-08-21 15:30:59 (5.86 MB/s) - 'D:/Websites/www.earth2150.com/ucs/frameset_ucs.htm' saved [860/860]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/menu/lc_menu.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4518 (4.4K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/menu/lc_menu.htm'
+
+     0K ....                                                  100% 20.0M=0s
+
+2021-08-21 15:30:59 (20.0 MB/s) - 'D:/Websites/www.earth2150.com/menu/lc_menu.htm' saved [4518/4518]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/lc/frameset_lc.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 858 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/frameset_lc.htm'
+
+     0K                                                       100% 7.24M=0s
+
+2021-08-21 15:30:59 (7.24 MB/s) - 'D:/Websites/www.earth2150.com/lc/frameset_lc.htm' saved [858/858]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/images/story_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5237 (5.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/story_2.jpg'
+
+     0K .....                                                 100% 34.0M=0s
+
+2021-08-21 15:30:59 (34.0 MB/s) - 'D:/Websites/www.earth2150.com/seiten/images/story_2.jpg' saved [5237/5237]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/images/story.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 250 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/story.gif'
+
+     0K                                                       100% 1.40M=0s
+
+2021-08-21 15:30:59 (1.40 MB/s) - 'D:/Websites/www.earth2150.com/seiten/images/story.gif' saved [250/250]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/images/1_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 127 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/1_on.gif'
+
+     0K                                                       100%  850K=0s
+
+2021-08-21 15:30:59 (850 KB/s) - 'D:/Websites/www.earth2150.com/seiten/images/1_on.gif' saved [127/127]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/story_2.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1701 (1.7K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/story_2.htm'
+
+     0K .                                                     100% 12.4M=0s
+
+2021-08-21 15:30:59 (12.4 MB/s) - 'D:/Websites/www.earth2150.com/seiten/story_2.htm' saved [1701/1701]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/images/2_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 146 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/2_off.gif'
+
+     0K                                                       100% 1.11M=0s
+
+2021-08-21 15:30:59 (1.11 MB/s) - 'D:/Websites/www.earth2150.com/seiten/images/2_off.gif' saved [146/146]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/story_3.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2292 (2.2K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/story_3.htm'
+
+     0K ..                                                    100% 9.81M=0s
+
+2021-08-21 15:30:59 (9.81 MB/s) - 'D:/Websites/www.earth2150.com/seiten/story_3.htm' saved [2292/2292]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/images/3_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 148 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/3_off.gif'
+
+     0K                                                       100% 1.12M=0s
+
+2021-08-21 15:30:59 (1.12 MB/s) - 'D:/Websites/www.earth2150.com/seiten/images/3_off.gif' saved [148/148]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/story_4.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2501 (2.4K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/story_4.htm'
+
+     0K ..                                                    100% 12.2M=0s
+
+2021-08-21 15:30:59 (12.2 MB/s) - 'D:/Websites/www.earth2150.com/seiten/story_4.htm' saved [2501/2501]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/images/4_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 145 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/4_off.gif'
+
+     0K                                                       100% 1006K=0s
+
+2021-08-21 15:30:59 (1006 KB/s) - 'D:/Websites/www.earth2150.com/seiten/images/4_off.gif' saved [145/145]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/images/render1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3779 (3.7K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/render1.jpg'
+
+     0K ...                                                   100% 24.4M=0s
+
+2021-08-21 15:30:59 (24.4 MB/s) - 'D:/Websites/www.earth2150.com/seiten/images/render1.jpg' saved [3779/3779]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/images/features.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 455 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/features.gif'
+
+     0K                                                       100% 2.95M=0s
+
+2021-08-21 15:30:59 (2.95 MB/s) - 'D:/Websites/www.earth2150.com/seiten/images/features.gif' saved [455/455]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/features_2.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2218 (2.2K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/features_2.htm'
+
+     0K ..                                                    100% 10.8M=0s
+
+2021-08-21 15:30:59 (10.8 MB/s) - 'D:/Websites/www.earth2150.com/seiten/features_2.htm' saved [2218/2218]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/features_3.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2400 (2.3K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/features_3.htm'
+
+     0K ..                                                    100% 4.95M=0s
+
+2021-08-21 15:30:59 (4.95 MB/s) - 'D:/Websites/www.earth2150.com/seiten/features_3.htm' saved [2400/2400]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/seiten/features_4.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1858 (1.8K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/features_4.htm'
+
+     0K .                                                     100% 11.6M=0s
+
+2021-08-21 15:30:59 (11.6 MB/s) - 'D:/Websites/www.earth2150.com/seiten/features_4.htm' saved [1858/1858]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/downloads/download_start.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1157 (1.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/downloads/download_start.htm'
+
+     0K .                                                     100% 7.83M=0s
+
+2021-08-21 15:30:59 (7.83 MB/s) - 'D:/Websites/www.earth2150.com/downloads/download_start.htm' saved [1157/1157]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/downloads/download_menu.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2120 (2.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/downloads/download_menu.htm'
+
+     0K ..                                                    100% 11.8M=0s
+
+2021-08-21 15:30:59 (11.8 MB/s) - 'D:/Websites/www.earth2150.com/downloads/download_menu.htm' saved [2120/2120]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/gen_images/1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6631 (6.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/gen_images/1.jpg'
+
+     0K ......                                                100% 12.6M=0.001s
+
+2021-08-21 15:30:59 (12.6 MB/s) - 'D:/Websites/www.earth2150.com/gen_images/1.jpg' saved [6631/6631]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/menu/images/ed/ed_top.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5194 (5.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/ed_top.jpg'
+
+     0K .....                                                 100% 27.7M=0s
+
+2021-08-21 15:30:59 (27.7 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/ed_top.jpg' saved [5194/5194]
+
+--2021-08-21 15:30:59--  https://www.earth2150.com/menu/images/ed/ed_left.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3345 (3.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/ed_left.jpg'
+
+     0K ...                                                   100% 16.5M=0s
+
+2021-08-21 15:31:00 (16.5 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/ed_left.jpg' saved [3345/3345]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/ed/seiten/history_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1738 (1.7K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/seiten/history_1.htm'
+
+     0K .                                                     100% 12.5M=0s
+
+2021-08-21 15:31:00 (12.5 MB/s) - 'D:/Websites/www.earth2150.com/ed/seiten/history_1.htm' saved [1738/1738]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ed/buttons/hist_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1195 (1.2K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/buttons/hist_off.jpg'
+
+     0K .                                                     100% 9.32M=0s
+
+2021-08-21 15:31:00 (9.32 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/buttons/hist_off.jpg' saved [1195/1195]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ed/ed_right.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2918 (2.8K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/ed_right.jpg'
+
+     0K ..                                                    100% 14.4M=0s
+
+2021-08-21 15:31:00 (14.4 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/ed_right.jpg' saved [2918/2918]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ed/ed1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1283 (1.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/ed1.jpg'
+
+     0K .                                                     100% 8.69M=0s
+
+2021-08-21 15:31:00 (8.69 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/ed1.jpg' saved [1283/1283]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/ed/images/graphics/graphics_frameset.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 624 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/graphics_frameset.htm'
+
+     0K                                                       100% 4.35M=0s
+
+2021-08-21 15:31:00 (4.35 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/graphics_frameset.htm' saved [624/624]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ed/buttons/graph_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1247 (1.2K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/buttons/graph_off.jpg'
+
+     0K .                                                     100% 6.97M=0s
+
+2021-08-21 15:31:00 (6.97 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/buttons/graph_off.jpg' saved [1247/1247]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ed/ed2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1299 (1.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/ed2.jpg'
+
+     0K .                                                     100% 7.16M=0s
+
+2021-08-21 15:31:00 (7.16 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/ed2.jpg' saved [1299/1299]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/ed/seiten/build_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4248 (4.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/seiten/build_1.htm'
+
+     0K ....                                                  100% 23.0M=0s
+
+2021-08-21 15:31:00 (23.0 MB/s) - 'D:/Websites/www.earth2150.com/ed/seiten/build_1.htm' saved [4248/4248]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ed/buttons/build_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1122 (1.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/buttons/build_off.jpg'
+
+     0K .                                                     100% 6.34M=0s
+
+2021-08-21 15:31:00 (6.34 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/buttons/build_off.jpg' saved [1122/1122]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ed/ed3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1307 (1.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/ed3.jpg'
+
+     0K .                                                     100% 7.74M=0s
+
+2021-08-21 15:31:00 (7.74 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/ed3.jpg' saved [1307/1307]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/ed/seiten/units_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4188 (4.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/seiten/units_1.htm'
+
+     0K ....                                                  100% 19.3M=0s
+
+2021-08-21 15:31:00 (19.3 MB/s) - 'D:/Websites/www.earth2150.com/ed/seiten/units_1.htm' saved [4188/4188]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ed/buttons/units_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1056 (1.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/buttons/units_off.jpg'
+
+     0K .                                                     100% 6.65M=0s
+
+2021-08-21 15:31:00 (6.65 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/buttons/units_off.jpg' saved [1056/1056]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ed/ed4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1311 (1.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/ed4.jpg'
+
+     0K .                                                     100% 7.81M=0s
+
+2021-08-21 15:31:00 (7.81 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/ed4.jpg' saved [1311/1311]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ed/buttons/mm_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1088 (1.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/buttons/mm_off.jpg'
+
+     0K .                                                     100% 5.82M=0s
+
+2021-08-21 15:31:00 (5.82 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/buttons/mm_off.jpg' saved [1088/1088]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ed/ed_bottom.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1333 (1.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ed/ed_bottom.jpg'
+
+     0K .                                                     100% 8.14M=0s
+
+2021-08-21 15:31:00 (8.14 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ed/ed_bottom.jpg' saved [1333/1333]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/ed/seiten/ed_top.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1454 (1.4K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/seiten/ed_top.htm'
+
+     0K .                                                     100% 10.7M=0s
+
+2021-08-21 15:31:00 (10.7 MB/s) - 'D:/Websites/www.earth2150.com/ed/seiten/ed_top.htm' saved [1454/1454]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/ed/seiten/start.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 809 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/seiten/start.htm'
+
+     0K                                                       100% 5.06M=0s
+
+2021-08-21 15:31:00 (5.06 MB/s) - 'D:/Websites/www.earth2150.com/ed/seiten/start.htm' saved [809/809]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ucs/ucs_top.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4362 (4.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_top.jpg'
+
+     0K ....                                                  100% 30.8M=0s
+
+2021-08-21 15:31:00 (30.8 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_top.jpg' saved [4362/4362]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ucs/ucs_left.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3256 (3.2K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_left.jpg'
+
+     0K ...                                                   100% 21.0M=0s
+
+2021-08-21 15:31:00 (21.0 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_left.jpg' saved [3256/3256]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/ucs/seiten/history_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1807 (1.8K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/seiten/history_1.htm'
+
+     0K .                                                     100% 9.63M=0s
+
+2021-08-21 15:31:00 (9.63 MB/s) - 'D:/Websites/www.earth2150.com/ucs/seiten/history_1.htm' saved [1807/1807]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ucs/buttons/hist_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1040 (1.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/buttons/hist_off.jpg'
+
+     0K .                                                     100% 7.59M=0s
+
+2021-08-21 15:31:00 (7.59 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/buttons/hist_off.jpg' saved [1040/1040]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ucs/ucs_right.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4504 (4.4K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_right.jpg'
+
+     0K ....                                                  100% 29.7M=0s
+
+2021-08-21 15:31:00 (29.7 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_right.jpg' saved [4504/4504]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ucs/ucs_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1651 (1.6K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_1.jpg'
+
+     0K .                                                     100% 12.3M=0s
+
+2021-08-21 15:31:00 (12.3 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_1.jpg' saved [1651/1651]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/ucs/images/graphics/graphics_frameset.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 624 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/graphics_frameset.htm'
+
+     0K                                                       100% 4.80M=0s
+
+2021-08-21 15:31:00 (4.80 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/graphics_frameset.htm' saved [624/624]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ucs/buttons/graph_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1021 [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/buttons/graph_off.jpg'
+
+     0K                                                       100% 6.05M=0s
+
+2021-08-21 15:31:00 (6.05 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/buttons/graph_off.jpg' saved [1021/1021]
+
+--2021-08-21 15:31:00--  https://www.earth2150.com/menu/images/ucs/ucs_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1844 (1.8K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_2.jpg'
+
+     0K .                                                     100% 8.52M=0s
+
+2021-08-21 15:31:01 (8.52 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_2.jpg' saved [1844/1844]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/ucs/seiten/build_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3801 (3.7K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/seiten/build_1.htm'
+
+     0K ...                                                   100% 19.7M=0s
+
+2021-08-21 15:31:01 (19.7 MB/s) - 'D:/Websites/www.earth2150.com/ucs/seiten/build_1.htm' saved [3801/3801]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/ucs/buttons/build_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1027 (1.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/buttons/build_off.jpg'
+
+     0K .                                                     100% 7.47M=0s
+
+2021-08-21 15:31:01 (7.47 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/buttons/build_off.jpg' saved [1027/1027]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/ucs/ucs_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1844 (1.8K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_3.jpg'
+
+     0K .                                                     100% 12.4M=0s
+
+2021-08-21 15:31:01 (12.4 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_3.jpg' saved [1844/1844]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/ucs/seiten/units_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4170 (4.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/seiten/units_1.htm'
+
+     0K ....                                                  100% 16.8M=0s
+
+2021-08-21 15:31:01 (16.8 MB/s) - 'D:/Websites/www.earth2150.com/ucs/seiten/units_1.htm' saved [4170/4170]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/ucs/buttons/units_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 881 [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/buttons/units_off.jpg'
+
+     0K                                                       100% 6.12M=0s
+
+2021-08-21 15:31:01 (6.12 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/buttons/units_off.jpg' saved [881/881]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/ucs/ucs_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1860 (1.8K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_4.jpg'
+
+     0K .                                                     100% 10.3M=0s
+
+2021-08-21 15:31:01 (10.3 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_4.jpg' saved [1860/1860]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/ucs/buttons/mm_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 970 [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/buttons/mm_off.jpg'
+
+     0K                                                       100% 5.96M=0s
+
+2021-08-21 15:31:01 (5.96 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/buttons/mm_off.jpg' saved [970/970]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/ucs/ucs_bottom.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3524 (3.4K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_bottom.jpg'
+
+     0K ...                                                   100% 21.0M=0s
+
+2021-08-21 15:31:01 (21.0 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/ucs/ucs_bottom.jpg' saved [3524/3524]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/ucs/seiten/ucs_top.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1393 (1.4K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/seiten/ucs_top.htm'
+
+     0K .                                                     100% 11.3M=0s
+
+2021-08-21 15:31:01 (11.3 MB/s) - 'D:/Websites/www.earth2150.com/ucs/seiten/ucs_top.htm' saved [1393/1393]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/ucs/seiten/start.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 831 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/seiten/start.htm'
+
+     0K                                                       100% 5.64M=0s
+
+2021-08-21 15:31:01 (5.64 MB/s) - 'D:/Websites/www.earth2150.com/ucs/seiten/start.htm' saved [831/831]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/lc/lc_top.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4630 (4.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/lc/lc_top.jpg'
+
+     0K ....                                                  100% 26.0M=0s
+
+2021-08-21 15:31:01 (26.0 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/lc/lc_top.jpg' saved [4630/4630]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/lc/lc_left.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2592 (2.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/lc/lc_left.jpg'
+
+     0K ..                                                    100% 14.8M=0s
+
+2021-08-21 15:31:01 (14.8 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/lc/lc_left.jpg' saved [2592/2592]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/lc/seiten/history_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1741 (1.7K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/seiten/history_1.htm'
+
+     0K .                                                     100% 11.5M=0s
+
+2021-08-21 15:31:01 (11.5 MB/s) - 'D:/Websites/www.earth2150.com/lc/seiten/history_1.htm' saved [1741/1741]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/lc/buttons/hist_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1092 (1.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/lc/buttons/hist_off.jpg'
+
+     0K .                                                     100% 7.79M=0s
+
+2021-08-21 15:31:01 (7.79 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/lc/buttons/hist_off.jpg' saved [1092/1092]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/lc/lc_right.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3799 (3.7K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/lc/lc_right.jpg'
+
+     0K ...                                                   100% 22.3M=0s
+
+2021-08-21 15:31:01 (22.3 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/lc/lc_right.jpg' saved [3799/3799]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/lc/lc_1.jpg
+Connecting to www.earth2150.com (www.earth2150.com)|85.115.25.220|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1105 (1.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/lc/lc_1.jpg'
+
+     0K .                                                     100% 9.33M=0s
+
+2021-08-21 15:31:01 (9.33 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/lc/lc_1.jpg' saved [1105/1105]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/lc/images/graphics/graphics_frameset.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 624 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/graphics_frameset.htm'
+
+     0K                                                       100% 5.30M=0s
+
+2021-08-21 15:31:01 (5.30 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/graphics_frameset.htm' saved [624/624]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/lc/buttons/graph_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1343 (1.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/lc/buttons/graph_off.jpg'
+
+     0K .                                                     100% 8.43M=0s
+
+2021-08-21 15:31:01 (8.43 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/lc/buttons/graph_off.jpg' saved [1343/1343]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/lc/lc_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1146 (1.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/lc/lc_2.jpg'
+
+     0K .                                                     100% 8.24M=0s
+
+2021-08-21 15:31:01 (8.24 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/lc/lc_2.jpg' saved [1146/1146]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/lc/seiten/build_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4088 (4.0K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/seiten/build_1.htm'
+
+     0K ...                                                   100% 21.9M=0s
+
+2021-08-21 15:31:01 (21.9 MB/s) - 'D:/Websites/www.earth2150.com/lc/seiten/build_1.htm' saved [4088/4088]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/lc/buttons/build_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1321 (1.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/lc/buttons/build_off.jpg'
+
+     0K .                                                     100% 10.2M=0s
+
+2021-08-21 15:31:01 (10.2 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/lc/buttons/build_off.jpg' saved [1321/1321]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/menu/images/lc/lc_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1129 (1.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/lc/lc_3.jpg'
+
+     0K .                                                     100% 8.85M=0s
+
+2021-08-21 15:31:01 (8.85 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/lc/lc_3.jpg' saved [1129/1129]
+
+--2021-08-21 15:31:01--  https://www.earth2150.com/lc/seiten/units_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3368 (3.3K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/seiten/units_1.htm'
+
+     0K ...                                                   100% 18.5M=0s
+
+2021-08-21 15:31:02 (18.5 MB/s) - 'D:/Websites/www.earth2150.com/lc/seiten/units_1.htm' saved [3368/3368]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/menu/images/lc/buttons/units_off.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1060 (1.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/lc/buttons/units_off.jpg'
+
+     0K .                                                     100% 5.86M=0s
+
+2021-08-21 15:31:02 (5.86 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/lc/buttons/units_off.jpg' saved [1060/1060]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/menu/images/lc/lc_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 784 [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/lc/lc_4.jpg'
+
+     0K                                                       100% 5.95M=0s
+
+2021-08-21 15:31:02 (5.95 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/lc/lc_4.jpg' saved [784/784]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/menu/images/lc/lc_pfeil.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1103 (1.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/menu/images/lc/lc_pfeil.jpg'
+
+     0K .                                                     100% 7.72M=0s
+
+2021-08-21 15:31:02 (7.72 MB/s) - 'D:/Websites/www.earth2150.com/menu/images/lc/lc_pfeil.jpg' saved [1103/1103]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/lc/seiten/lc_top.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1458 (1.4K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/seiten/lc_top.htm'
+
+     0K .                                                     100% 11.4M=0s
+
+2021-08-21 15:31:02 (11.4 MB/s) - 'D:/Websites/www.earth2150.com/lc/seiten/lc_top.htm' saved [1458/1458]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/lc/seiten/start.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 806 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/seiten/start.htm'
+
+     0K                                                       100% 6.58M=0s
+
+2021-08-21 15:31:02 (6.58 MB/s) - 'D:/Websites/www.earth2150.com/lc/seiten/start.htm' saved [806/806]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/seiten/images/story_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4620 (4.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/story_1.jpg'
+
+     0K ....                                                  100% 24.7M=0s
+
+2021-08-21 15:31:02 (24.7 MB/s) - 'D:/Websites/www.earth2150.com/seiten/images/story_1.jpg' saved [4620/4620]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/seiten/images/1_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 128 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/1_off.gif'
+
+     0K                                                       100%  920K=0s
+
+2021-08-21 15:31:02 (920 KB/s) - 'D:/Websites/www.earth2150.com/seiten/images/1_off.gif' saved [128/128]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/seiten/images/2_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 145 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/2_on.gif'
+
+     0K                                                       100% 1.04M=0s
+
+2021-08-21 15:31:02 (1.04 MB/s) - 'D:/Websites/www.earth2150.com/seiten/images/2_on.gif' saved [145/145]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/seiten/images/3_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 148 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/3_on.gif'
+
+     0K                                                       100% 1.05M=0s
+
+2021-08-21 15:31:02 (1.05 MB/s) - 'D:/Websites/www.earth2150.com/seiten/images/3_on.gif' saved [148/148]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/seiten/images/4_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 141 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/4_on.gif'
+
+     0K                                                       100%  928K=0s
+
+2021-08-21 15:31:02 (928 KB/s) - 'D:/Websites/www.earth2150.com/seiten/images/4_on.gif' saved [141/141]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/seiten/images/render2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3475 (3.4K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/render2.jpg'
+
+     0K ...                                                   100% 18.0M=0s
+
+2021-08-21 15:31:02 (18.0 MB/s) - 'D:/Websites/www.earth2150.com/seiten/images/render2.jpg' saved [3475/3475]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/seiten/images/render3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3141 (3.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/seiten/images/render3.jpg'
+
+     0K ...                                                   100% 19.1M=0s
+
+2021-08-21 15:31:02 (19.1 MB/s) - 'D:/Websites/www.earth2150.com/seiten/images/render3.jpg' saved [3141/3141]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/images/render1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6679 (6.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/render1.jpg'
+
+     0K ......                                                100% 28.6M=0s
+
+2021-08-21 15:31:02 (28.6 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/render1.jpg' saved [6679/6679]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/images/history.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 305 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/history.gif'
+
+     0K                                                       100% 2.29M=0s
+
+2021-08-21 15:31:02 (2.29 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/history.gif' saved [305/305]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/images/graphics/graphics_start.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 876 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/graphics_start.htm'
+
+     0K                                                       100% 5.03M=0s
+
+2021-08-21 15:31:02 (5.03 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/graphics_start.htm' saved [876/876]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/images/graphics/graphics_menu.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3394 (3.3K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/graphics_menu.htm'
+
+     0K ...                                                   100% 20.1M=0s
+
+2021-08-21 15:31:02 (20.1 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/graphics_menu.htm' saved [3394/3394]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/images/buildings/build_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3295 (3.2K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/buildings/build_1.jpg'
+
+     0K ...                                                   100% 15.3M=0s
+
+2021-08-21 15:31:02 (15.3 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/buildings/build_1.jpg' saved [3295/3295]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/images/buildings.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 368 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/buildings.gif'
+
+     0K                                                       100% 2.04M=0s
+
+2021-08-21 15:31:02 (2.04 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/buildings.gif' saved [368/368]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/images/1_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 127 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/1_on.gif'
+
+     0K                                                       100%  874K=0s
+
+2021-08-21 15:31:02 (874 KB/s) - 'D:/Websites/www.earth2150.com/ed/images/1_on.gif' saved [127/127]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/seiten/build_2.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3159 (3.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/seiten/build_2.htm'
+
+     0K ...                                                   100% 19.4M=0s
+
+2021-08-21 15:31:02 (19.4 MB/s) - 'D:/Websites/www.earth2150.com/ed/seiten/build_2.htm' saved [3159/3159]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/images/2_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 146 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/2_off.gif'
+
+     0K                                                       100% 1.19M=0s
+
+2021-08-21 15:31:02 (1.19 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/2_off.gif' saved [146/146]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/seiten/build_3.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3128 (3.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/seiten/build_3.htm'
+
+     0K ...                                                   100% 15.6M=0s
+
+2021-08-21 15:31:02 (15.6 MB/s) - 'D:/Websites/www.earth2150.com/ed/seiten/build_3.htm' saved [3128/3128]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/images/3_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 148 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/3_off.gif'
+
+     0K                                                       100%  945K=0s
+
+2021-08-21 15:31:02 (945 KB/s) - 'D:/Websites/www.earth2150.com/ed/images/3_off.gif' saved [148/148]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/images/units/unit_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5280 (5.2K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/units/unit_1.jpg'
+
+     0K .....                                                 100% 23.5M=0s
+
+2021-08-21 15:31:02 (23.5 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/units/unit_1.jpg' saved [5280/5280]
+
+--2021-08-21 15:31:02--  https://www.earth2150.com/ed/images/units.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 239 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/units.gif'
+
+     0K                                                       100% 1.77M=0s
+
+2021-08-21 15:31:03 (1.77 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/units.gif' saved [239/239]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ed/seiten/units_2.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3404 (3.3K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/seiten/units_2.htm'
+
+     0K ...                                                   100% 10.0M=0s
+
+2021-08-21 15:31:03 (10.0 MB/s) - 'D:/Websites/www.earth2150.com/ed/seiten/units_2.htm' saved [3404/3404]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ed/seiten/units_3.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4272 (4.2K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/seiten/units_3.htm'
+
+     0K ....                                                  100% 22.1M=0s
+
+2021-08-21 15:31:03 (22.1 MB/s) - 'D:/Websites/www.earth2150.com/ed/seiten/units_3.htm' saved [4272/4272]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ed/images/edbt.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1205 (1.2K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/edbt.jpg'
+
+     0K .                                                     100% 6.64M=0s
+
+2021-08-21 15:31:03 (6.64 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/edbt.jpg' saved [1205/1205]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ed/images/edbtl.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2013 (2.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/edbtl.jpg'
+
+     0K .                                                     100% 7.00M=0s
+
+2021-08-21 15:31:03 (7.00 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/edbtl.jpg' saved [2013/2013]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ed/images/edbtr.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1707 (1.7K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/edbtr.jpg'
+
+     0K .                                                     100% 10.1M=0s
+
+2021-08-21 15:31:03 (10.1 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/edbtr.jpg' saved [1707/1707]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ed/images/logo_big.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6772 (6.6K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/logo_big.jpg'
+
+     0K ......                                                100% 36.6M=0s
+
+2021-08-21 15:31:03 (36.6 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/logo_big.jpg' saved [6772/6772]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ed/images/eurasian_d.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1562 (1.5K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/eurasian_d.gif'
+
+     0K .                                                     100% 10.2M=0s
+
+2021-08-21 15:31:03 (10.2 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/eurasian_d.gif' saved [1562/1562]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/render1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6158 (6.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/render1.jpg'
+
+     0K ......                                                100% 22.8M=0s
+
+2021-08-21 15:31:03 (22.8 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/render1.jpg' saved [6158/6158]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/history.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 305 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/history.gif'
+
+     0K                                                       100% 1.70M=0s
+
+2021-08-21 15:31:03 (1.70 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/history.gif' saved [305/305]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/graphics/graphics_start.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 851 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/graphics_start.htm'
+
+     0K                                                       100% 4.49M=0s
+
+2021-08-21 15:31:03 (4.49 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/graphics_start.htm' saved [851/851]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/graphics/graphics_menu.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3394 (3.3K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/graphics_menu.htm'
+
+     0K ...                                                   100% 19.7M=0s
+
+2021-08-21 15:31:03 (19.7 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/graphics_menu.htm' saved [3394/3394]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/buildings/build_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2568 (2.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/buildings/build_1.jpg'
+
+     0K ..                                                    100% 14.3M=0s
+
+2021-08-21 15:31:03 (14.3 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/buildings/build_1.jpg' saved [2568/2568]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/buildings.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 368 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/buildings.gif'
+
+     0K                                                       100% 2.36M=0s
+
+2021-08-21 15:31:03 (2.36 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/buildings.gif' saved [368/368]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/1_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 127 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/1_on.gif'
+
+     0K                                                       100%  748K=0s
+
+2021-08-21 15:31:03 (748 KB/s) - 'D:/Websites/www.earth2150.com/ucs/images/1_on.gif' saved [127/127]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/seiten/build_2.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3183 (3.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/seiten/build_2.htm'
+
+     0K ...                                                   100% 18.3M=0s
+
+2021-08-21 15:31:03 (18.3 MB/s) - 'D:/Websites/www.earth2150.com/ucs/seiten/build_2.htm' saved [3183/3183]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/2_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 146 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/2_off.gif'
+
+     0K                                                       100% 1.05M=0s
+
+2021-08-21 15:31:03 (1.05 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/2_off.gif' saved [146/146]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/seiten/build_3.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3128 (3.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/seiten/build_3.htm'
+
+     0K ...                                                   100% 15.5M=0s
+
+2021-08-21 15:31:03 (15.5 MB/s) - 'D:/Websites/www.earth2150.com/ucs/seiten/build_3.htm' saved [3128/3128]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/3_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 148 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/3_off.gif'
+
+     0K                                                       100%  846K=0s
+
+2021-08-21 15:31:03 (846 KB/s) - 'D:/Websites/www.earth2150.com/ucs/images/3_off.gif' saved [148/148]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/units/unit_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3502 (3.4K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/units/unit_1.jpg'
+
+     0K ...                                                   100% 18.2M=0s
+
+2021-08-21 15:31:03 (18.2 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/units/unit_1.jpg' saved [3502/3502]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/units.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 239 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/units.gif'
+
+     0K                                                       100% 1.69M=0s
+
+2021-08-21 15:31:03 (1.69 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/units.gif' saved [239/239]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/seiten/units_2.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3578 (3.5K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/seiten/units_2.htm'
+
+     0K ...                                                   100% 18.7M=0s
+
+2021-08-21 15:31:03 (18.7 MB/s) - 'D:/Websites/www.earth2150.com/ucs/seiten/units_2.htm' saved [3578/3578]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/seiten/units_3.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4258 (4.2K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/seiten/units_3.htm'
+
+     0K ....                                                  100% 26.1M=0s
+
+2021-08-21 15:31:03 (26.1 MB/s) - 'D:/Websites/www.earth2150.com/ucs/seiten/units_3.htm' saved [4258/4258]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/bar_wall.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 683 [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/bar_wall.jpg'
+
+     0K                                                       100% 3.42M=0s
+
+2021-08-21 15:31:03 (3.42 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/bar_wall.jpg' saved [683/683]
+
+--2021-08-21 15:31:03--  https://www.earth2150.com/ucs/images/bar_r.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1279 (1.2K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/bar_r.jpg'
+
+     0K .                                                     100% 6.87M=0s
+
+2021-08-21 15:31:04 (6.87 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/bar_r.jpg' saved [1279/1279]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/ucs/images/bar_l.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1416 (1.4K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/bar_l.jpg'
+
+     0K .                                                     100% 11.2M=0s
+
+2021-08-21 15:31:04 (11.2 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/bar_l.jpg' saved [1416/1416]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/ucs/images/logo_big.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5427 (5.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/logo_big.jpg'
+
+     0K .....                                                 100% 29.4M=0s
+
+2021-08-21 15:31:04 (29.4 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/logo_big.jpg' saved [5427/5427]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/ucs/images/union_s.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1651 (1.6K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/union_s.gif'
+
+     0K .                                                     100% 9.19M=0s
+
+2021-08-21 15:31:04 (9.19 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/union_s.gif' saved [1651/1651]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/render_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4947 (4.8K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/render_1.jpg'
+
+     0K ....                                                  100% 17.9M=0s
+
+2021-08-21 15:31:04 (17.9 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/render_1.jpg' saved [4947/4947]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/history.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 305 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/history.gif'
+
+     0K                                                       100% 2.25M=0s
+
+2021-08-21 15:31:04 (2.25 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/history.gif' saved [305/305]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/graphics/graphics_start.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 876 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/graphics_start.htm'
+
+     0K                                                       100% 7.00M=0s
+
+2021-08-21 15:31:04 (7.00 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/graphics_start.htm' saved [876/876]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/graphics/graphics_menu.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3394 (3.3K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/graphics_menu.htm'
+
+     0K ...                                                   100% 12.7M=0s
+
+2021-08-21 15:31:04 (12.7 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/graphics_menu.htm' saved [3394/3394]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/buildings/build_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4875 (4.8K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/buildings/build_1.jpg'
+
+     0K ....                                                  100% 23.3M=0s
+
+2021-08-21 15:31:04 (23.3 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/buildings/build_1.jpg' saved [4875/4875]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/buildings.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 368 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/buildings.gif'
+
+     0K                                                       100% 2.04M=0s
+
+2021-08-21 15:31:04 (2.04 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/buildings.gif' saved [368/368]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/1_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 127 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/1_on.gif'
+
+     0K                                                       100%  683K=0s
+
+2021-08-21 15:31:04 (683 KB/s) - 'D:/Websites/www.earth2150.com/lc/images/1_on.gif' saved [127/127]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/seiten/build_2.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3183 (3.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/seiten/build_2.htm'
+
+     0K ...                                                   100% 19.4M=0s
+
+2021-08-21 15:31:04 (19.4 MB/s) - 'D:/Websites/www.earth2150.com/lc/seiten/build_2.htm' saved [3183/3183]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/2_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 146 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/2_off.gif'
+
+     0K                                                       100% 1.17M=0s
+
+2021-08-21 15:31:04 (1.17 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/2_off.gif' saved [146/146]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/seiten/build_3.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3128 (3.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/seiten/build_3.htm'
+
+     0K ...                                                   100% 17.0M=0s
+
+2021-08-21 15:31:04 (17.0 MB/s) - 'D:/Websites/www.earth2150.com/lc/seiten/build_3.htm' saved [3128/3128]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/3_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 148 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/3_off.gif'
+
+     0K                                                       100% 1.10M=0s
+
+2021-08-21 15:31:04 (1.10 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/3_off.gif' saved [148/148]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/units/unit_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2836 (2.8K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/units/unit_1.jpg'
+
+     0K ..                                                    100% 17.3M=0s
+
+2021-08-21 15:31:04 (17.3 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/units/unit_1.jpg' saved [2836/2836]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/units.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 239 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/units.gif'
+
+     0K                                                       100% 1.43M=0s
+
+2021-08-21 15:31:04 (1.43 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/units.gif' saved [239/239]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/seiten/units_2.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3375 (3.3K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/seiten/units_2.htm'
+
+     0K ...                                                   100% 20.1M=0s
+
+2021-08-21 15:31:04 (20.1 MB/s) - 'D:/Websites/www.earth2150.com/lc/seiten/units_2.htm' saved [3375/3375]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/seiten/units_3.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4343 (4.2K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/seiten/units_3.htm'
+
+     0K ....                                                  100% 27.3M=0s
+
+2021-08-21 15:31:04 (27.3 MB/s) - 'D:/Websites/www.earth2150.com/lc/seiten/units_3.htm' saved [4343/4343]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/lcbarm.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1779 (1.7K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/lcbarm.jpg'
+
+     0K .                                                     100% 10.8M=0s
+
+2021-08-21 15:31:04 (10.8 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/lcbarm.jpg' saved [1779/1779]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/lcbarl.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2693 (2.6K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/lcbarl.jpg'
+
+     0K ..                                                    100% 13.3M=0s
+
+2021-08-21 15:31:04 (13.3 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/lcbarl.jpg' saved [2693/2693]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/lcbarr.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2601 (2.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/lcbarr.jpg'
+
+     0K ..                                                    100% 14.4M=0s
+
+2021-08-21 15:31:04 (14.4 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/lcbarr.jpg' saved [2601/2601]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/logo_big.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8123 (7.9K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/logo_big.jpg'
+
+     0K .......                                               100% 18.4M=0s
+
+2021-08-21 15:31:04 (18.4 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/logo_big.jpg' saved [8123/8123]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/lc/images/lunar_c.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1602 (1.6K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/lunar_c.gif'
+
+     0K .                                                     100% 11.9M=0s
+
+2021-08-21 15:31:04 (11.9 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/lunar_c.gif' saved [1602/1602]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/gen_images/g_zone.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1840 (1.8K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/gen_images/g_zone.gif'
+
+     0K .                                                     100% 11.9M=0s
+
+2021-08-21 15:31:04 (11.9 MB/s) - 'D:/Websites/www.earth2150.com/gen_images/g_zone.gif' saved [1840/1840]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/ed/images/graphics/renderart/renderart_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4228 (4.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/renderart/renderart_1.htm'
+
+     0K ....                                                  100% 29.2M=0s
+
+2021-08-21 15:31:04 (29.2 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/renderart/renderart_1.htm' saved [4228/4228]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/ed/images/graphics/renderart_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 340 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/renderart_off.gif'
+
+     0K                                                       100% 2.39M=0s
+
+2021-08-21 15:31:04 (2.39 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/renderart_off.gif' saved [340/340]
+
+--2021-08-21 15:31:04--  https://www.earth2150.com/ed/images/graphics/screenshots_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 385 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots_off.gif'
+
+     0K                                                       100% 2.83M=0s
+
+2021-08-21 15:31:05 (2.83 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots_off.gif' saved [385/385]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/graphics/screenshots/screenshots_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1942 (1.9K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/screenshots_1.htm'
+
+     0K .                                                     100% 12.7M=0s
+
+2021-08-21 15:31:05 (12.7 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/screenshots_1.htm' saved [1942/1942]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/1_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 128 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/1_off.gif'
+
+     0K                                                       100%  851K=0s
+
+2021-08-21 15:31:05 (851 KB/s) - 'D:/Websites/www.earth2150.com/ed/images/1_off.gif' saved [128/128]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/graphics/wireframes/wireframes_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 896 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/wireframes/wireframes_1.htm'
+
+     0K                                                       100% 6.28M=0s
+
+2021-08-21 15:31:05 (6.28 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/wireframes/wireframes_1.htm' saved [896/896]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/graphics/wireframes_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 397 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/wireframes_off.gif'
+
+     0K                                                       100% 2.59M=0s
+
+2021-08-21 15:31:05 (2.59 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/wireframes_off.gif' saved [397/397]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/buildings/build_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6444 (6.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/buildings/build_2.jpg'
+
+     0K ......                                                100% 27.7M=0s
+
+2021-08-21 15:31:05 (27.7 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/buildings/build_2.jpg' saved [6444/6444]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/buildings/build_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5612 (5.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/buildings/build_3.jpg'
+
+     0K .....                                                 100% 28.5M=0s
+
+2021-08-21 15:31:05 (28.5 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/buildings/build_3.jpg' saved [5612/5612]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/2_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 145 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/2_on.gif'
+
+     0K                                                       100%  917K=0s
+
+2021-08-21 15:31:05 (917 KB/s) - 'D:/Websites/www.earth2150.com/ed/images/2_on.gif' saved [145/145]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/buildings/build_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6418 (6.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/buildings/build_4.jpg'
+
+     0K ......                                                100% 37.3M=0s
+
+2021-08-21 15:31:05 (37.3 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/buildings/build_4.jpg' saved [6418/6418]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/buildings/build_5.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8643 (8.4K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/buildings/build_5.jpg'
+
+     0K ........                                              100% 5.81M=0.001s
+
+2021-08-21 15:31:05 (5.81 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/buildings/build_5.jpg' saved [8643/8643]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/3_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 148 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/3_on.gif'
+
+     0K                                                       100%  804K=0s
+
+2021-08-21 15:31:05 (804 KB/s) - 'D:/Websites/www.earth2150.com/ed/images/3_on.gif' saved [148/148]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/units/unit_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3282 (3.2K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/units/unit_2.jpg'
+
+     0K ...                                                   100% 16.7M=0s
+
+2021-08-21 15:31:05 (16.7 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/units/unit_2.jpg' saved [3282/3282]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/units/unit_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2129 (2.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/units/unit_3.jpg'
+
+     0K ..                                                    100% 12.3M=0s
+
+2021-08-21 15:31:05 (12.3 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/units/unit_3.jpg' saved [2129/2129]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/units/unit_6.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1711 (1.7K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/units/unit_6.jpg'
+
+     0K .                                                     100% 12.0M=0s
+
+2021-08-21 15:31:05 (12.0 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/units/unit_6.jpg' saved [1711/1711]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/units/unit_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2188 (2.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/units/unit_4.jpg'
+
+     0K ..                                                    100% 9.42M=0s
+
+2021-08-21 15:31:05 (9.42 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/units/unit_4.jpg' saved [2188/2188]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ed/images/units/weaponry.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4635 (4.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/units/weaponry.jpg'
+
+     0K ....                                                  100% 26.5M=0s
+
+2021-08-21 15:31:05 (26.5 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/units/weaponry.jpg' saved [4635/4635]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ucs/images/graphics/renderart/renderart_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4228 (4.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/renderart/renderart_1.htm'
+
+     0K ....                                                  100% 19.4M=0s
+
+2021-08-21 15:31:05 (19.4 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/renderart/renderart_1.htm' saved [4228/4228]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ucs/images/graphics/renderart_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 340 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/renderart_off.gif'
+
+     0K                                                       100% 1.74M=0s
+
+2021-08-21 15:31:05 (1.74 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/renderart_off.gif' saved [340/340]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ucs/images/graphics/screenshots_off.gif
+Connecting to www.earth2150.com (www.earth2150.com)|85.115.25.220|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 385 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots_off.gif'
+
+     0K                                                       100% 2.25M=0s
+
+2021-08-21 15:31:05 (2.25 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots_off.gif' saved [385/385]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ucs/images/graphics/screenshots/screenshots_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1942 (1.9K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots/screenshots_1.htm'
+
+     0K .                                                     100% 11.1M=0s
+
+2021-08-21 15:31:05 (11.1 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots/screenshots_1.htm' saved [1942/1942]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ucs/images/1_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 128 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/1_off.gif'
+
+     0K                                                       100%  686K=0s
+
+2021-08-21 15:31:05 (686 KB/s) - 'D:/Websites/www.earth2150.com/ucs/images/1_off.gif' saved [128/128]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ucs/images/graphics/wireframes/wireframes_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 846 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/wireframes/wireframes_1.htm'
+
+     0K                                                       100% 4.57M=0s
+
+2021-08-21 15:31:05 (4.57 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/wireframes/wireframes_1.htm' saved [846/846]
+
+--2021-08-21 15:31:05--  https://www.earth2150.com/ucs/images/graphics/wireframes_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 397 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/wireframes_off.gif'
+
+     0K                                                       100% 2.52M=0s
+
+2021-08-21 15:31:06 (2.52 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/wireframes_off.gif' saved [397/397]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/ucs/images/buildings/build_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8309 (8.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/buildings/build_2.jpg'
+
+     0K ........                                              100% 10.7M=0.001s
+
+2021-08-21 15:31:06 (10.7 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/buildings/build_2.jpg' saved [8309/8309]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/ucs/images/buildings/build_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7105 (6.9K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/buildings/build_3.jpg'
+
+     0K ......                                                100% 30.8M=0s
+
+2021-08-21 15:31:06 (30.8 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/buildings/build_3.jpg' saved [7105/7105]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/ucs/images/2_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 145 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/2_on.gif'
+
+     0K                                                       100%  794K=0s
+
+2021-08-21 15:31:06 (794 KB/s) - 'D:/Websites/www.earth2150.com/ucs/images/2_on.gif' saved [145/145]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/ucs/images/buildings/build_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8486 (8.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/buildings/build_4.jpg'
+
+     0K ........                                              100% 13.5M=0.001s
+
+2021-08-21 15:31:06 (13.5 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/buildings/build_4.jpg' saved [8486/8486]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/ucs/images/buildings/build_5.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6822 (6.7K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/buildings/build_5.jpg'
+
+     0K ......                                                100% 21.0M=0s
+
+2021-08-21 15:31:06 (21.0 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/buildings/build_5.jpg' saved [6822/6822]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/ucs/images/3_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 148 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/3_on.gif'
+
+     0K                                                       100%  774K=0s
+
+2021-08-21 15:31:06 (774 KB/s) - 'D:/Websites/www.earth2150.com/ucs/images/3_on.gif' saved [148/148]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/ucs/images/units/unit_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4184 (4.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/units/unit_2.jpg'
+
+     0K ....                                                  100% 18.7M=0s
+
+2021-08-21 15:31:06 (18.7 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/units/unit_2.jpg' saved [4184/4184]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/ucs/images/units/unit_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2362 (2.3K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/units/unit_3.jpg'
+
+     0K ..                                                    100% 11.9M=0s
+
+2021-08-21 15:31:06 (11.9 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/units/unit_3.jpg' saved [2362/2362]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/ucs/images/units/unit_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2098 (2.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/units/unit_4.jpg'
+
+     0K ..                                                    100% 15.1M=0s
+
+2021-08-21 15:31:06 (15.1 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/units/unit_4.jpg' saved [2098/2098]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/ucs/images/units/unit_5.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2461 (2.4K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/units/unit_5.jpg'
+
+     0K ..                                                    100% 12.6M=0s
+
+2021-08-21 15:31:06 (12.6 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/units/unit_5.jpg' saved [2461/2461]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/ucs/images/units/weaponry.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4200 (4.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/units/weaponry.jpg'
+
+     0K ....                                                  100% 15.9M=0s
+
+2021-08-21 15:31:06 (15.9 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/units/weaponry.jpg' saved [4200/4200]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/graphics/renderart/renderart_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4228 (4.1K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart/renderart_1.htm'
+
+     0K ....                                                  100% 20.9M=0s
+
+2021-08-21 15:31:06 (20.9 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart/renderart_1.htm' saved [4228/4228]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/graphics/renderart_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 340 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart_off.gif'
+
+     0K                                                       100% 2.77M=0s
+
+2021-08-21 15:31:06 (2.77 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart_off.gif' saved [340/340]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/graphics/screenshots_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 385 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/screenshots_off.gif'
+
+     0K                                                       100% 2.11M=0s
+
+2021-08-21 15:31:06 (2.11 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/screenshots_off.gif' saved [385/385]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/graphics/screenshots/screenshots_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1942 (1.9K) [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/screenshots/screenshots_1.htm'
+
+     0K .                                                     100% 8.59M=0s
+
+2021-08-21 15:31:06 (8.59 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/screenshots/screenshots_1.htm' saved [1942/1942]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/1_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 128 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/1_off.gif'
+
+     0K                                                       100%  970K=0s
+
+2021-08-21 15:31:06 (970 KB/s) - 'D:/Websites/www.earth2150.com/lc/images/1_off.gif' saved [128/128]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/graphics/wireframes/wireframes_1.htm
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 995 [text/html]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/wireframes/wireframes_1.htm'
+
+     0K                                                       100% 6.23M=0s
+
+2021-08-21 15:31:06 (6.23 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/wireframes/wireframes_1.htm' saved [995/995]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/graphics/wireframes_off.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 397 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/wireframes_off.gif'
+
+     0K                                                       100% 2.94M=0s
+
+2021-08-21 15:31:06 (2.94 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/wireframes_off.gif' saved [397/397]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/buildings/build_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7921 (7.7K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/buildings/build_2.jpg'
+
+     0K .......                                               100% 34.9M=0s
+
+2021-08-21 15:31:06 (34.9 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/buildings/build_2.jpg' saved [7921/7921]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/buildings/build_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5650 (5.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/buildings/build_3.jpg'
+
+     0K .....                                                 100% 4.84M=0.001s
+
+2021-08-21 15:31:06 (4.84 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/buildings/build_3.jpg' saved [5650/5650]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/2_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 145 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/2_on.gif'
+
+     0K                                                       100%  926K=0s
+
+2021-08-21 15:31:06 (926 KB/s) - 'D:/Websites/www.earth2150.com/lc/images/2_on.gif' saved [145/145]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/buildings/build_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9313 (9.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/buildings/build_4.jpg'
+
+     0K .........                                             100% 10.0M=0.001s
+
+2021-08-21 15:31:06 (10.0 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/buildings/build_4.jpg' saved [9313/9313]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/buildings/build_5.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5550 (5.4K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/buildings/build_5.jpg'
+
+     0K .....                                                 100% 23.7M=0s
+
+2021-08-21 15:31:06 (23.7 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/buildings/build_5.jpg' saved [5550/5550]
+
+--2021-08-21 15:31:06--  https://www.earth2150.com/lc/images/3_on.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 148 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/3_on.gif'
+
+     0K                                                       100% 1.03M=0s
+
+2021-08-21 15:31:07 (1.03 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/3_on.gif' saved [148/148]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/lc/images/units/unit_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2259 (2.2K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/units/unit_3.jpg'
+
+     0K ..                                                    100% 8.48M=0s
+
+2021-08-21 15:31:07 (8.48 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/units/unit_3.jpg' saved [2259/2259]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/lc/images/units/unit_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4880 (4.8K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/units/unit_2.jpg'
+
+     0K ....                                                  100% 30.0M=0s
+
+2021-08-21 15:31:07 (30.0 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/units/unit_2.jpg' saved [4880/4880]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/lc/images/units/unit_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4184 (4.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/units/unit_4.jpg'
+
+     0K ....                                                  100% 19.9M=0s
+
+2021-08-21 15:31:07 (19.9 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/units/unit_4.jpg' saved [4184/4184]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/lc/images/units/weaponry.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5612 (5.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/units/weaponry.jpg'
+
+     0K .....                                                 100% 28.9M=0s
+
+2021-08-21 15:31:07 (28.9 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/units/weaponry.jpg' saved [5612/5612]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/renderart/render_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4783 (4.7K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/renderart/render_1.jpg'
+
+     0K ....                                                  100% 21.3M=0s
+
+2021-08-21 15:31:07 (21.3 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/renderart/render_1.jpg' saved [4783/4783]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/renderart/render_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4553 (4.4K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/renderart/render_2.jpg'
+
+     0K ....                                                  100% 25.8M=0s
+
+2021-08-21 15:31:07 (25.8 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/renderart/render_2.jpg' saved [4553/4553]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/renderart/render_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5047 (4.9K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/renderart/render_3.jpg'
+
+     0K ....                                                  100% 29.0M=0s
+
+2021-08-21 15:31:07 (29.0 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/renderart/render_3.jpg' saved [5047/5047]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/renderart/render_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4794 (4.7K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/renderart/render_4.jpg'
+
+     0K ....                                                  100% 30.2M=0s
+
+2021-08-21 15:31:07 (30.2 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/renderart/render_4.jpg' saved [4794/4794]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/renderart/transparent.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-08-21 15:31:07 ERROR 404: Not Found.
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/screenshots/screen_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4294 (4.2K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/screen_1.jpg'
+
+     0K ....                                                  100% 24.1M=0s
+
+2021-08-21 15:31:07 (24.1 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/screen_1.jpg' saved [4294/4294]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/screenshots/screen_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4124 (4.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/screen_2.jpg'
+
+     0K ....                                                  100% 23.9M=0s
+
+2021-08-21 15:31:07 (23.9 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/screen_2.jpg' saved [4124/4124]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/screenshots/screen_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4274 (4.2K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/screen_3.jpg'
+
+     0K ....                                                  100% 22.2M=0s
+
+2021-08-21 15:31:07 (22.2 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/screen_3.jpg' saved [4274/4274]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/screenshots/screen_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4012 (3.9K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/screen_4.jpg'
+
+     0K ...                                                   100% 18.5M=0s
+
+2021-08-21 15:31:07 (18.5 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/screen_4.jpg' saved [4012/4012]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/screenshots/transparent.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 43 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/transparent.gif'
+
+     0K                                                       100%  266K=0s
+
+2021-08-21 15:31:07 (266 KB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/transparent.gif' saved [43/43]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/wireframes/wire_1.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4594 (4.5K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/wireframes/wire_1.gif'
+
+     0K ....                                                  100% 19.8M=0s
+
+2021-08-21 15:31:07 (19.8 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/wireframes/wire_1.gif' saved [4594/4594]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/wireframes/wire_3.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9270 (9.1K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/wireframes/wire_3.gif'
+
+     0K .........                                             100% 14.5M=0.001s
+
+2021-08-21 15:31:07 (14.5 MB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/wireframes/wire_3.gif' saved [9270/9270]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ed/images/graphics/wireframes/transparent.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 43 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ed/images/graphics/wireframes/transparent.gif'
+
+     0K                                                       100%  216K=0s
+
+2021-08-21 15:31:07 (216 KB/s) - 'D:/Websites/www.earth2150.com/ed/images/graphics/wireframes/transparent.gif' saved [43/43]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ucs/images/graphics/renderart/render_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4535 (4.4K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/renderart/render_1.jpg'
+
+     0K ....                                                  100% 27.8M=0s
+
+2021-08-21 15:31:07 (27.8 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/renderart/render_1.jpg' saved [4535/4535]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ucs/images/graphics/renderart/render_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4093 (4.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/renderart/render_2.jpg'
+
+     0K ...                                                   100% 13.6M=0s
+
+2021-08-21 15:31:07 (13.6 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/renderart/render_2.jpg' saved [4093/4093]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ucs/images/graphics/renderart/render_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3544 (3.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/renderart/render_3.jpg'
+
+     0K ...                                                   100% 14.6M=0s
+
+2021-08-21 15:31:07 (14.6 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/renderart/render_3.jpg' saved [3544/3544]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ucs/images/graphics/renderart/render_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3545 (3.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/renderart/render_4.jpg'
+
+     0K ...                                                   100% 16.0M=0s
+
+2021-08-21 15:31:07 (16.0 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/renderart/render_4.jpg' saved [3545/3545]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ucs/images/graphics/renderart/transparent.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-08-21 15:31:07 ERROR 404: Not Found.
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ucs/images/graphics/screenshots/screen_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4691 (4.6K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots/screen_1.jpg'
+
+     0K ....                                                  100% 26.1M=0s
+
+2021-08-21 15:31:07 (26.1 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots/screen_1.jpg' saved [4691/4691]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ucs/images/graphics/screenshots/screen_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4076 (4.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots/screen_2.jpg'
+
+     0K ...                                                   100% 23.2M=0s
+
+2021-08-21 15:31:07 (23.2 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots/screen_2.jpg' saved [4076/4076]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ucs/images/graphics/screenshots/screen_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4607 (4.5K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots/screen_3.jpg'
+
+     0K ....                                                  100% 22.7M=0s
+
+2021-08-21 15:31:07 (22.7 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots/screen_3.jpg' saved [4607/4607]
+
+--2021-08-21 15:31:07--  https://www.earth2150.com/ucs/images/graphics/screenshots/screen_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4109 (4.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots/screen_4.jpg'
+
+     0K ....                                                  100% 13.4M=0s
+
+2021-08-21 15:31:08 (13.4 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots/screen_4.jpg' saved [4109/4109]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/ucs/images/graphics/screenshots/transparent.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-08-21 15:31:08 ERROR 404: Not Found.
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/ucs/images/graphics/wireframes/wire_1.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9646 (9.4K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/wireframes/wire_1.gif'
+
+     0K .........                                             100% 8.75M=0.001s
+
+2021-08-21 15:31:08 (8.75 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/wireframes/wire_1.gif' saved [9646/9646]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/ucs/images/graphics/wireframes/wire_3.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10451 (10K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/ucs/images/graphics/wireframes/wire_3.gif'
+
+     0K ..........                                            100% 8.72M=0.001s
+
+2021-08-21 15:31:08 (8.72 MB/s) - 'D:/Websites/www.earth2150.com/ucs/images/graphics/wireframes/wire_3.gif' saved [10451/10451]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/ucs/images/graphics/wireframes/transparent.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-08-21 15:31:08 ERROR 404: Not Found.
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/renderart/render_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3750 (3.7K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart/render_1.jpg'
+
+     0K ...                                                   100% 19.9M=0s
+
+2021-08-21 15:31:08 (19.9 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart/render_1.jpg' saved [3750/3750]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/renderart/render_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4163 (4.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart/render_2.jpg'
+
+     0K ....                                                  100% 22.3M=0s
+
+2021-08-21 15:31:08 (22.3 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart/render_2.jpg' saved [4163/4163]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/renderart/render_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5284 (5.2K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart/render_3.jpg'
+
+     0K .....                                                 100% 26.3M=0s
+
+2021-08-21 15:31:08 (26.3 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart/render_3.jpg' saved [5284/5284]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/renderart/render_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4125 (4.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart/render_4.jpg'
+
+     0K ....                                                  100% 25.5M=0s
+
+2021-08-21 15:31:08 (25.5 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart/render_4.jpg' saved [4125/4125]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/renderart/transparent.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 43 [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart/transparent.gif'
+
+     0K                                                       100%  291K=0s
+
+2021-08-21 15:31:08 (291 KB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/renderart/transparent.gif' saved [43/43]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/screenshots/screen_1.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5192 (5.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/screenshots/screen_1.jpg'
+
+     0K .....                                                 100% 28.7M=0s
+
+2021-08-21 15:31:08 (28.7 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/screenshots/screen_1.jpg' saved [5192/5192]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/screenshots/screen_2.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4176 (4.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/screenshots/screen_2.jpg'
+
+     0K ....                                                  100% 20.7M=0s
+
+2021-08-21 15:31:08 (20.7 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/screenshots/screen_2.jpg' saved [4176/4176]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/screenshots/screen_3.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5180 (5.1K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/screenshots/screen_3.jpg'
+
+     0K .....                                                 100% 14.1M=0s
+
+2021-08-21 15:31:08 (14.1 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/screenshots/screen_3.jpg' saved [5180/5180]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/screenshots/screen_4.jpg
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5075 (5.0K) [image/jpeg]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/screenshots/screen_4.jpg'
+
+     0K ....                                                  100% 29.5M=0s
+
+2021-08-21 15:31:08 (29.5 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/screenshots/screen_4.jpg' saved [5075/5075]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/screenshots/transparent.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-08-21 15:31:08 ERROR 404: Not Found.
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/wireframes/wire_1.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3221 (3.1K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/wireframes/wire_1.gif'
+
+     0K ...                                                   100% 14.6M=0s
+
+2021-08-21 15:31:08 (14.6 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/wireframes/wire_1.gif' saved [3221/3221]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/wireframes/wire_2.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6640 (6.5K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/wireframes/wire_2.gif'
+
+     0K ......                                                100% 30.3M=0s
+
+2021-08-21 15:31:08 (30.3 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/wireframes/wire_2.gif' saved [6640/6640]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/wireframes/wire_3.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3127 (3.1K) [image/gif]
+Saving to: 'D:/Websites/www.earth2150.com/lc/images/graphics/wireframes/wire_3.gif'
+
+     0K ...                                                   100% 16.2M=0s
+
+2021-08-21 15:31:08 (16.2 MB/s) - 'D:/Websites/www.earth2150.com/lc/images/graphics/wireframes/wire_3.gif' saved [3127/3127]
+
+--2021-08-21 15:31:08--  https://www.earth2150.com/lc/images/graphics/wireframes/transparent.gif
+Reusing existing connection to www.earth2150.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2021-08-21 15:31:08 ERROR 404: Not Found.
+
+FINISHED --2021-08-21 15:31:08--
+Total wall clock time: 12s
+Downloaded: 267 files, 735K in 0.09s (7.81 MB/s)
+Converting links in D:/Websites/www.earth2150.com/seiten/story_3.htm... 8-0
+Converting links in D:/Websites/www.earth2150.com/lc/images/graphics/graphics_frameset.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/3er/frameset_1.htm... 3-0
+Converting links in D:/Websites/www.earth2150.com/lc/frameset_lc.htm... 6-0
+Converting links in D:/Websites/www.earth2150.com/ucs/frameset_ucs.htm... 6-0
+Converting links in D:/Websites/www.earth2150.com/menu/ed_menu.htm... 18-0
+Converting links in D:/Websites/www.earth2150.com/seiten/story_4.htm... 8-0
+Converting links in D:/Websites/www.earth2150.com/bkg.htm... nothing to do.
+Converting links in D:/Websites/www.earth2150.com/3er/frameset_2.htm... 6-0
+Converting links in D:/Websites/www.earth2150.com/seiten/features_1.htm... 9-0
+Converting links in D:/Websites/www.earth2150.com/ucs/images/graphics/graphics_start.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/ucs/images/graphics/renderart/renderart_1.htm... 8-1
+Converting links in D:/Websites/www.earth2150.com/loading.htm... 10-2
+Converting links in D:/Websites/www.earth2150.com/lc/images/graphics/wireframes/wireframes_1.htm... 3-1
+Converting links in D:/Websites/www.earth2150.com/seiten/features_2.htm... 9-0
+Converting links in D:/Websites/www.earth2150.com/ed/images/graphics/graphics_frameset.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/3er/frameset_lc.htm... 3-0
+Converting links in D:/Websites/www.earth2150.com/ucs/images/graphics/graphics_frameset.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/downloads/download_start.htm... nothing to do.
+Converting links in D:/Websites/www.earth2150.com/ed/frameset_ed.htm... 6-0
+Converting links in D:/Websites/www.earth2150.com/lc/images/graphics/graphics_start.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/ed/seiten/units_1.htm... 7-0
+Converting links in D:/Websites/www.earth2150.com/menu/ucs_menu.htm... 18-0
+Converting links in D:/Websites/www.earth2150.com/ucs/seiten/history_1.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/ucs/images/graphics/wireframes/wireframes_1.htm... 2-1
+Converting links in D:/Websites/www.earth2150.com/seiten/features_3.htm... 9-0
+Converting links in D:/Websites/www.earth2150.com/lc/images/graphics/renderart/renderart_1.htm... 9-0
+Converting links in D:/Websites/www.earth2150.com/ucs/images/graphics/screenshots/screenshots_1.htm... 8-1
+Converting links in D:/Websites/www.earth2150.com/ed/seiten/build_1.htm... 7-0
+Converting links in D:/Websites/www.earth2150.com/start.htm... 1-0
+Converting links in D:/Websites/www.earth2150.com/lc/seiten/history_1.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/ed/seiten/units_2.htm... 10-0
+Converting links in D:/Websites/www.earth2150.com/ucs/seiten/units_1.htm... 7-0
+Converting links in D:/Websites/www.earth2150.com/ed/seiten/start.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/seiten/features_4.htm... 8-0
+Converting links in D:/Websites/www.earth2150.com/lc/images/graphics/graphics_menu.htm... 9-0
+Converting links in D:/Websites/www.earth2150.com/downloads/download_menu.htm... nothing to do.
+Converting links in D:/Websites/www.earth2150.com/ed/images/graphics/graphics_start.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/ed/seiten/build_2.htm... 8-0
+Converting links in D:/Websites/www.earth2150.com/ucs/seiten/build_1.htm... 7-0
+Converting links in D:/Websites/www.earth2150.com/ed/seiten/units_3.htm... 7-0
+Converting links in D:/Websites/www.earth2150.com/lc/seiten/units_1.htm... 7-0
+Converting links in D:/Websites/www.earth2150.com/ed/seiten/ed_top.htm... 3-0
+Converting links in D:/Websites/www.earth2150.com/menu/lc_menu.htm... 17-0
+Converting links in D:/Websites/www.earth2150.com/lc/seiten/lc_top.htm... 3-0
+Converting links in D:/Websites/www.earth2150.com/ucs/images/graphics/graphics_menu.htm... 9-0
+Converting links in D:/Websites/www.earth2150.com/ed/images/graphics/graphics_menu.htm... 9-0
+Converting links in D:/Websites/www.earth2150.com/downloads/download_frameset.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/ucs/seiten/ucs_top.htm... 3-0
+Converting links in D:/Websites/www.earth2150.com/ucs/seiten/units_2.htm... 10-0
+Converting links in D:/Websites/www.earth2150.com/lc/images/graphics/screenshots/screenshots_1.htm... 8-1
+Converting links in D:/Websites/www.earth2150.com/ed/seiten/build_3.htm... 8-0
+Converting links in D:/Websites/www.earth2150.com/lc/seiten/build_1.htm... 7-0
+Converting links in D:/Websites/www.earth2150.com/ucs/seiten/build_2.htm... 8-0
+Converting links in D:/Websites/www.earth2150.com/ed/images/graphics/renderart/renderart_1.htm... 8-1
+Converting links in D:/Websites/www.earth2150.com/seiten/story_1.htm... 9-0
+Converting links in D:/Websites/www.earth2150.com/ucs/seiten/units_3.htm... 7-0
+Converting links in D:/Websites/www.earth2150.com/3er/frameset_ed.htm... 3-0
+Converting links in D:/Websites/www.earth2150.com/lc/seiten/units_2.htm... 9-0
+Converting links in D:/Websites/www.earth2150.com/ed/images/graphics/screenshots/screenshots_1.htm... 9-0
+Converting links in D:/Websites/www.earth2150.com/ed/seiten/history_1.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/ucs/seiten/build_3.htm... 8-0
+Converting links in D:/Websites/www.earth2150.com/lc/seiten/start.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/lc/seiten/build_2.htm... 8-0
+Converting links in D:/Websites/www.earth2150.com/seiten/story_2.htm... 9-0
+Converting links in D:/Websites/www.earth2150.com/lc/seiten/units_3.htm... 7-0
+Converting links in D:/Websites/www.earth2150.com/menu/haupt_menu.htm... 17-0
+Converting links in D:/Websites/www.earth2150.com/ucs/seiten/start.htm... 2-0
+Converting links in D:/Websites/www.earth2150.com/3er/frameset_ucs.htm... 3-0
+Converting links in D:/Websites/www.earth2150.com/ed/images/graphics/wireframes/wireframes_1.htm... 3-0
+Converting links in D:/Websites/www.earth2150.com/lc/seiten/build_3.htm... 8-0
+Converted links in 71 files in 0.05 seconds.
