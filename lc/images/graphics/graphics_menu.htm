@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>EARTH2150</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v2.0
+  if (document.MM_swapImgData != null)
+    for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
+      document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
+}
+
+function MM_preloadImages() { //v2.0
+  if (document.images) {
+    var imgFiles = MM_preloadImages.arguments;
+    if (document.preloadArray==null) document.preloadArray = new Array();
+    var i = document.preloadArray.length;
+    with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#"){
+      preloadArray[i] = new Image;
+      preloadArray[i++].src = imgFiles[j];
+  } }
+}
+
+function MM_swapImage() { //v2.0
+  var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
+  for (i=0; i < (MM_swapImage.arguments.length-2); i+=3) {
+    objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
+    if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
+        (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
+      objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
+    obj = eval(objStr);
+    if (obj != null) {
+      swapArray[j++] = obj;
+      swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
+      obj.src = MM_swapImage.arguments[i+2];
+  } }
+  document.MM_swapImgData = swapArray; //used for restore
+}
+
+function MM_popupMsg(theMsg) { //v2.0
+  alert(theMsg);
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#000000" text="#CCCCCC" link="#00FFFF" vlink="#9999FF" alink="#FF0000" onLoad="MM_preloadImages('renderart_on.gif','#926417159399');MM_preloadImages('wireframes_on.gif','#926417187139');MM_preloadImages('../1_on.gif','#926420880820');MM_preloadImages('../2_on.gif','#926420893068')">
+<table width="80%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td>
+      <div align="center"><a href="renderart/renderart_1.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image1','document.Image1','renderart_on.gif','#926417159399')" target="g_haupt"><img name="Image1" border="0" src="renderart_off.gif" width="74" height="15" alt="RenderArt"></a></div>
+    </td>
+    <td>
+      <div align="center"><img src="screenshots_off.gif" width="92" height="15" alt="Screenshots"><a href="screenshots/screenshots_1.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image4','document.Image4','../1_on.gif','#926420880820')" target="g_haupt"><img name="Image4" border="0" src="../1_off.gif" width="19" height="15" alt="1"></a><a href="graphics_menu.htm#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image5','document.Image5','../2_on.gif','#926420893068')" onClick="MM_popupMsg('More screenshots will be available soon. We want you to come back :o)')"><img name="Image5" border="0" src="../2_off.gif" width="19" height="15" alt="2"></a></div>
+    </td>
+    <td>
+      <div align="center"><a href="wireframes/wireframes_1.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image3','document.Image3','wireframes_on.gif','#926417187139')" target="g_haupt"><img name="Image3" border="0" src="wireframes_off.gif" width="92" height="15" alt="Wireframes"></a></div>
+    </td>
+  </tr>
+</table>
+</body>
+</html>

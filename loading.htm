@@ -1,0 +1,240 @@
+<html>
+
+<head>
+<title>Loading EARTH2150</title>
+<script language="JavaScript"><!--
+
+
+
+// Ladestatus Anzeige 1.0 
+
+// (c) Copyright 1998 Mathis Wieder
+
+// Alle Rechte des Website-Betreibers bleiben vorbehalten. Unauthorisiertes Kopieren und
+// Verwenden von Inhalten der TopWare Webpages zu gewerblichen Zwecken ist verboten.
+
+
+var i=0; // Erstes Anzeigerbildelement
+
+var z=10; // Anzahl der Anzeigerbildelemente
+
+
+
+if (document.images) {
+
+  loaderoff = new Image();
+
+  loaderoff.src = "gen_images/loader_passiv.gif";
+
+  loaderon = new Image();
+
+  loaderon.src = "gen_images/loader_aktiv.gif";
+
+}
+
+
+
+function weiter() {
+
+for (i=0;i<z;i++)
+
+{ 
+
+	a = eval("'loader'+i");
+
+	temp = eval('a');
+
+	on(temp);
+
+}
+
+
+
+var skipPage = true; bAgent = window.navigator.userAgent; bAppName = window.navigator.appName;
+
+if ((bAppName.indexOf("Netscape") >= 0) && (bAgent.indexOf("Mozilla/2") >= 0)) skipPage = false;
+
+if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/2") >= 0)) skipPage = false;
+
+if ((bAppName.indexOf("Netscape") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0)) skipPage = false;
+
+if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0)) skipPage = false;
+
+if ((skipPage)&& (i>4)) { location = /*URL*/'4er/frameset_1.htm'; return; }
+
+else {location = /*URL*/'3er/frameset_1.htm'; return;}
+
+}
+
+
+
+
+
+function on(imageName) {
+
+  if (document.images) {
+
+    document[imageName].src = eval("loaderon.src");
+
+  }
+
+}
+
+
+
+function startloader(){
+
+	if(i<z) 
+
+	{ 
+
+		a = eval("'loader'+i");
+
+		temp = eval('a');
+
+		on(temp);
+
+		setTimeout("startloader()",1000);
+
+		i++;
+
+	}
+
+	else { weiter(); }
+
+}
+
+
+
+
+
+if (document.images) {
+
+var pics = new Array();
+
+  pics[0] = new Image();
+
+  pics[0].src = "menu/images/ed/ed_bottom.jpg";
+
+  pics[1] = new Image();
+
+  pics[1].src = "menu/images/ed/ed_left.jpg";
+
+  pics[2] = new Image();
+
+  pics[2].src = "menu/images/ed/ed_right.jpg";
+
+  pics[3] = new Image();
+
+  pics[3].src = "menu/images/ed/ed_top.jpg";
+
+  pics[4] = new Image();
+
+  pics[4].src = "menu/images/lc/lc_top.jpg";
+
+  pics[5] = new Image();
+
+  pics[5].src = "menu/images/lc/lc_left.jpg";
+
+  pics[6] = new Image();
+
+  pics[6].src = "menu/images/lc/lc_right.jpg";
+
+  pics[7] = new Image();
+
+  pics[7].src = "menu/images/lc/lc_pfeil.jpg";
+
+  pics[8] = new Image();
+
+  pics[8].src = "menu/images/ucs/ucs_top.jpg";
+
+  pics[9] = new Image();
+
+  pics[9].src = "menu/images/ucs/ucs_bottom.jpg";
+
+  pics[10] = new Image();
+
+  pics[10].src = "menu/images/ucs/ucs_left.jpg";
+
+  pics[11] = new Image();
+
+  pics[11].src = "menu/images/ucs/ucs_right.jpg";
+
+  pics[12] = new Image();
+
+  pics[12].src = "menu/images/startmenu/ed_off.jpg";
+
+  pics[13] = new Image();
+
+  pics[13].src = "menu/images/startmenu/ed_on.jpg";
+
+  pics[14] = new Image();
+
+  pics[14].src = "menu/images/startmenu/lc_off.jpg";
+
+  pics[15] = new Image();
+
+  pics[15].src = "menu/images/startmenu/lc_on.jpg";
+
+  pics[16] = new Image();
+
+  pics[16].src = "menu/images/startmenu/ucs_off.jpg";
+
+  pics[17] = new Image();
+
+  pics[17].src = "menu/images/startmenu/ucs_on.jpg";
+
+  pics[18] = new Image();
+
+  pics[18].src = "menu/images/startmenu/logo100.jpg";
+
+  pics[19] = new Image();
+
+  pics[19].src = "menu/images/startmenu/mech.jpg";
+
+    
+}
+
+
+
+// -->
+
+
+
+</script>
+</head>
+
+<body bgcolor="black" text="#c8c8c8" link="gray" vlink="gray" onload="weiter();">
+<div align="center"><center>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="95%">
+  <tr>
+    <td align="center" valign="middle"><font face="Arial,Verdana" size="2"><!-- <img src="gen_images/top_p.gif" alt="TopWare INTERACTIVE" border="0">
+
+					--> </font><p><font
+    color="#00FF00"><font face="Verdana,Arial" size="2">Loading images ... Please wait</font> </font></p>
+    <p><font color="#00FF00"><font face="Verdana,Arial" size="1">0% <img
+    src="gen_images/loader_left.gif" border="0" width="3" height="12"><img src="gen_images/loader_passiv.gif"
+    border="0" name="loader0" width="5" height="12"><img src="https://www.earth2150.com/loader_passiv.gif" border="0"
+    name="loader1" width="5" height="12"><img src="gen_images/loader_passiv.gif" border="0"
+    name="loader2" width="5" height="12"><img src="gen_images/loader_passiv.gif" border="0"
+    name="loader3" width="5" height="12"><img src="gen_images/loader_passiv.gif" border="0"
+    name="loader4" width="5" height="12"><img src="gen_images/loader_passiv.gif" border="0"
+    name="loader5" width="5" height="12"><img src="gen_images/loader_passiv.gif" border="0"
+    name="loader6" width="5" height="12"><img src="gen_images/loader_passiv.gif" border="0"
+    name="loader7" width="5" height="12"><img src="gen_images/loader_passiv.gif" border="0"
+    name="loader8" width="5" height="12"><img src="gen_images/loader_passiv.gif" border="0"
+    name="loader9" width="5" height="12"><img src="https://www.earth2150.com/gen_images/images/loader_right.gif" border="0"
+    width="3" height="12"> 100%</font> <script language="JavaScript1.1"><!--
+
+setTimeout("startloader()",100);
+
+// -->
+
+</script> </font></p>
+    <p>&nbsp;</td>
+  </tr>
+</table>
+</center></div>
+</body>
+</html>
